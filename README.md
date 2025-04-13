@@ -58,6 +58,6 @@ By following the same structure below, you will be able to grasp the overall pic
 
 You can download the sample document "**6.5G MCS UCS.pdf**" from the link below:
 
-[Download 6.5G MCS UCS.pdf](./6.5G%20MCS%20UCS.pdf)
+[Download 6.5G MCS UCS.pdf](./Sample_06.5GMCSUCS.pdf)
 
 ---
